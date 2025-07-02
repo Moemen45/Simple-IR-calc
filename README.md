@@ -8,5 +8,5 @@ A calculator that computes **simple interest** given the principal amount, annua
 - `t`: Time period in years
 
 ## Output
-- Simple Interest calculated using the formula:
+- Simple Interest calculated using the formula: (p x t x r)
 
